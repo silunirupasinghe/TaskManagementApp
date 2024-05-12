@@ -31,13 +31,15 @@
             android:textSize="16sp"
             android:layout_marginLeft="15dp"
             android:layout_marginTop="15dp"/>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="16dp"
             android:orientation="horizontal">
+
             <ImageView
-                android:id="@+id/updateButton"
+                android:id="@+id/updateButtonlist"
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:layout_marginEnd="30dp"
